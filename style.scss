@@ -1,0 +1,19 @@
+$color1: #F4A7CB; //pink
+$color2: #F0FE9D; //yellow
+$color3: #B7FDF5; //blue
+
+body {
+    background-color: $color2;
+}
+
+.main {
+    background-image: url(Media/poster_yell.jpg)
+}
+
+.lineup {
+    background-image: url(Media/pink_poster.jpg);
+}
+
+.sponsors {
+    background-image: url(Media/poster_yellow.jpg)
+}
